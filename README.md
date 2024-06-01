@@ -1,4 +1,4 @@
-# Autonomous Continuous Track Vehicle
+# Embedded System about Autonomous Continuous Track Vehicle
 
 ## Introduction
 Learn Mbed operating system API and some open-source software, and design relevant system programs. Finally, integrate what you have learned to implement an autonomous "continuous track vehicle" capable of completing a specified route.
